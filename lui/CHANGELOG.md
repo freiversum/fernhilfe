@@ -5,6 +5,10 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+
+- The repository moved to the freiversum organization: https://github.com/freiversum/fernhilfe. Old `github.com/linuxundich/fernhilfe` links and clone URLs redirect.
+
 ## [1.5.0-lui.6]
 
 ### Changed
